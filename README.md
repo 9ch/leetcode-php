@@ -1,2 +1,3 @@
 # leetcode-php
-use php realize leetcode
+
+用 php 刷一下 LeetCode
